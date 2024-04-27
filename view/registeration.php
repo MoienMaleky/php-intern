@@ -23,6 +23,7 @@ if (isset($_GET['erorrName'])) {
     .bg-custom-dashbord {
         background-color: #071823;
     }
+
 </style>
 <body class="bg-custom-dashbord">
 <div class="container">
