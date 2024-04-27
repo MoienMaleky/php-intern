@@ -53,6 +53,7 @@ if (isset($_GET['erorrName'])) {
  نام کاربری باید حداقل یک حرف بزرگ و یک عدد داشته باشد و طول آن حداقل 8 کاراکتر باشد                                    
                                  </div>';
                     } ?>
+
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
